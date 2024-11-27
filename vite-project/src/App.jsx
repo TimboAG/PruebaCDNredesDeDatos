@@ -95,13 +95,6 @@ function App() {
               Github Guerin
             </a>
             <br></br>
-            <a
-              href="https://github.com/Redes2024g10"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Github grupo 10
-            </a>
           </ul>
         </section>
       </main>
